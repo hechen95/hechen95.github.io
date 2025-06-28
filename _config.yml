@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen HE"
 title_separator          : "-"
 name                     : &name "Chen HE"
-description              : &description "Ph.D. student in Industrial Engineering (applied to healthcare)."
+description              : &description "Lecturer in Southwest University, China"
 url                      : https://hechen95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hechen95/hechen95.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Chen HE"
   avatar           : "profile.png"
   bio              : "Ph.D. student in Industrial Engineering (applied to healthcare)."
-  location         : "Saint Etienne, France"
+  location         : "Chongqing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qOyKTIQAAAAJ&hl=en"
-  email            : "chenhe95@swu.edu.cn"
+  email            : "mr.chen.he[@]outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Chen-He-31"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chenhe95"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9796-4425"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

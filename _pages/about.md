@@ -38,10 +38,6 @@ After graduating from [XIDIAN University](https://en.wikipedia.org/wiki/Xidian_U
 
 ### Professional character and personality
 --- 
-[//]: # (I have taken the 16-personalities-test many times. The test results are sometimes ESFJ-A and sometimes ESTJ-A. )
-
-[//]: <> (This is also a comment.)
-
 Often, I am likely to motivate myself and my collaborators to explore and answer a new research question rather than attempt to fit the question into a preconceived mold. In other words, I prefer to be a problem solver rather than a skilled programmer or a data cruncher. I am open-minded and pragmatic about any professional issues. I'm able to communicate and cooperate with people of different personalities efficiently.
 
 ### Research Topics
@@ -56,5 +52,5 @@ Indeed, my works focus on **interpretable** analysis of a specific problem of he
 Data-driven approches, operation research, optimization, machine learning, data mining and knowledge discovery, statistics, probabilty theory.
 
 ### Academic Services
-------
+---
 * Conference Reviewer: IEEE CASE 2020.
